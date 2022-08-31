@@ -689,6 +689,9 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.about .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
 
 /*--------------------------------------------------------------
 # Skills
